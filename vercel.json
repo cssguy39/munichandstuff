@@ -1,8 +1,12 @@
 {
-    "redirects": [
+    "rewrites": [
         {
             "source": "/cafe-luitpold",
             "destination": "/cafe-luitpold.html"
+        },
+        {
+            "source": "/day-trip-tegernsee",
+            "destination": "/day-trip-tegernsee.html"
         }
     ]
 }
